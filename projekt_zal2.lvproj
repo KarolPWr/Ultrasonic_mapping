@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="17008000">
+<Project Type="Project" LVVersion="12008004">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -11,6 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="LIFA Ultrasonic Distance.lvlib" Type="Library" URL="../../../../LIFA Ultrasonic Distance LV9/LIFA Ultrasonic Distance.lvlib"/>
+		<Item Name="machine_type.ctl" Type="VI" URL="../machine_type.ctl"/>
+		<Item Name="main_state.vi" Type="VI" URL="../main_state.vi"/>
 		<Item Name="main_vi.vi" Type="VI" URL="../../main_vi.vi"/>
 		<Item Name="servo_go_to_zero.vi" Type="VI" URL="../servo_go_to_zero.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
