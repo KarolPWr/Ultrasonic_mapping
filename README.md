@@ -9,6 +9,6 @@ Steps towards success:
 - Clone this repository
 - Install Labview and all necessary dependencies (LIFA, serial drivers, etc.)
 - Upload modified LIFA firmware to Arduino board (in LIFA_Base folder)
-- Run project
+- Run project (main.vi)
 
 Big thanks to Nathan_B who was responsible for creating LIFA lib for ultrasonic sensor. 
